@@ -1,7 +1,6 @@
 # Mahishanka Withanachchi
 
 ## Contact Information
-- **Address:** 2150 Rue Mackay, Apt 303, Quebec City, Quebec, QC G1V 2X1, Canada
 - **Phone:** +1 418 570 3772
 - **Email:** [mahishanka.withanachchi.1@ulaval.ca](mailto:mahishanka.withanachchi.1@ulaval.ca)
 - **LinkedIn:** [mahishanka-withanachchi](http://www.linkedin.com/in/mahishanka-withanachchi-b110b027a/)
@@ -43,7 +42,7 @@ My research explores Harmonic Analysis, Function Spaces, and Operator Theory, wi
 - **Prof. William Ross** - [Email](mailto:wross@richmond.edu), University of Richmond
 - **Prof. Peter Howard (Teaching reference)** - [Email](mailto:phoward@tamu.edu), Texas A&M University
 
-- teaching.md
+
 - # Teaching Experience
 
 ## Courses Taught
@@ -58,7 +57,6 @@ My research explores Harmonic Analysis, Function Spaces, and Operator Theory, wi
 - **MAT 1910:** Engineering Mathematics (Winter 2019 - Spring 2021)
 - **MAT 1200:** Linear Algebra (Autumn 2021 - Spring 2022)
 
-research.md
 # Research and Publications
 
 ## Professional Overview
